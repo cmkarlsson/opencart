@@ -114,6 +114,7 @@
         <?php } ?>
         <li><a href="about-us">About Us</a></li>
         <li><a href="FAQ">FAQ</a></li>
+        <li><a href="blog-headlines">Blog</a></li>
       </ul>
     </div>
   </nav>
